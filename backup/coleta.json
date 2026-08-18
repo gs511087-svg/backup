@@ -1,25 +1,25 @@
 {
-  "data": "2026-08-18T20:24:53.530763",
+  "data": "2026-08-18T20:28:22.327245",
   "computador": "DESKTOP-LV3NEGB",
   "usuario": "gs511",
   "dados": [
     {
-      "navegador": "Edge",
-      "url": "https://eu.recovery.riotgames.com/",
-      "usuario": "",
-      "senha": "v20\u001aɇ{\u0005WR.=eo\u0017R\u000e}5\u000e\bE"
+      "a": "E",
+      "u": "https://eu.recovery.riotgames.com/",
+      "us": "",
+      "p": "v20ɇ{WR.=eoR}5E"
     },
     {
-      "navegador": "Edge",
-      "url": "https://www.cursoemvideo.com/",
-      "usuario": "gs511087@gmail.com",
-      "senha": "v209.#-xP׵\f\u0002}=+T\u0013}x"
+      "a": "E",
+      "u": "https://www.cursoemvideo.com/",
+      "us": "gs511087@gmail.com",
+      "p": "v209.#-xP׵}=+T}x"
     },
     {
-      "navegador": "Edge",
-      "url": "https://painel.conceitofood.com/",
-      "usuario": "gs511087@gmail.com",
-      "senha": "v206ϫ&C1\u0004E.eT*\u001c_ڳ~\u0004\u0002\u001e"
+      "a": "E",
+      "u": "https://painel.conceitofood.com/",
+      "us": "gs511087@gmail.com",
+      "p": "v206ϫ&C1E.eT*_ڳ~"
     }
   ]
 }
